@@ -1,0 +1,19 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+         
+     A();
+     int age= 15;
+     String name=Aisha;
+     }
+     
+     public static void A(int age, String name){
+         if(age>=18){
+             System.out.println("مبروك يا عائشة سوف تحصلين على رخصة القيادة"+name);}
+             else if(age<18){
+                 System.out.println("للاسف يا عائشة ما زلت صغيرة للحصول على رخصة القيادة"+name);}
+                 
+
+                 }
+                 
+     
